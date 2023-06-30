@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    }
+ul li{
+    margin: 20px;
+    color: white;
+}
+button{
+    margin: 20px;
+}
+
+.homepage{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./imagefold/homepage.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bezao {
+    padding: top;
+}
+.our{
+    margin: 40px;
+    padding: 50px;
+}
+p{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.our{
+    font-family: serif;
+}
+button{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
